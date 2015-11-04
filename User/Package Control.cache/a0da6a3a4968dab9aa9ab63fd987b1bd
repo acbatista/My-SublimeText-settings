@@ -1,0 +1,105 @@
+{
+  "schema_version": "2.0",
+  "packages": [
+    {
+      "name": "Better Ruby",
+      "details": "https://github.com/fnando/better-ruby-for-sublime-text",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-ruby-for-sublime-text"
+        }
+      ]
+    },
+    {
+      "name": "Better RSpec",
+      "details": "https://github.com/fnando/better-rspec-for-sublime-text",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-rspec-for-sublime-text"
+        }
+      ]
+    },
+    {
+      "name": "Better Rails",
+      "details": "https://github.com/fnando/better-rails-for-sublime-text",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-rails-for-sublime-text"
+        }
+      ]
+    },
+    {
+      "name": "Better QUnit",
+      "details": "https://github.com/fnando/better-qunit-for-sublime-text",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/better-qunit-for-sublime-text"
+        }
+      ]
+    },
+    {
+      "name": "Switch Case",
+      "details": "https://github.com/fnando/sublime-switch-case",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/fnando/sublime-switch-case"
+        }
+      ]
+    },
+    {
+      "name": "Ansible",
+      "details": "https://github.com/clifford-github/sublime-ansible",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/clifford-github/sublime-ansible"
+        }
+      ]
+    },
+    {
+      "name": "Highlight",
+      "details": "https://github.com/n1k0/SublimeHighlight",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/n1k0/SublimeHighlight/tree/python3"
+        }
+      ]
+    },
+    {
+      "name": "Expand Selection to Quotes",
+      "details": "https://github.com/kek/sublime-expand-selection-to-quotes",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/kek/sublime-expand-selection-to-quotes"
+        }
+      ]
+    },
+    {
+      "name": "Autoprefixer",
+      "details": "https://github.com/sindresorhus/sublime-autoprefixer",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/sindresorhus/sublime-autoprefixer"
+        }
+      ]
+    },
+    {
+      "name": "Theme - El Capitan",
+      "details": "https://github.com/iccir/El-Capitan-Theme",
+      "releases": [
+        {
+          "sublime_text": "*",
+          "details": "https://github.com/iccir/El-Capitan-Theme"
+        }
+      ]
+    }
+  ]
+}
